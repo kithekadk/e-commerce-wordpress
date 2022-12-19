@@ -1,0 +1,64 @@
+2022-12-19T13:46:34+00:00 CRITICAL Uncaught Error: Call to undefined function gte_template_directory() in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\functions.php:3
+Stack trace:
+#0 C:\xampp\htdocs\project\wp-settings.php(585): include()
+#1 C:\xampp\htdocs\project\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\project\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\functions.php on line 3
+
+2022-12-19T13:48:35+00:00 CRITICAL Uncaught Error: Call to undefined function gte_template_directory() in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\functions.php:3
+Stack trace:
+#0 C:\xampp\htdocs\project\wp-settings.php(585): include()
+#1 C:\xampp\htdocs\project\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\project\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\functions.php on line 3
+
+2022-12-19T13:50:36+00:00 CRITICAL Uncaught Error: Call to undefined function gte_template_directory() in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\functions.php:3
+Stack trace:
+#0 C:\xampp\htdocs\project\wp-settings.php(585): include()
+#1 C:\xampp\htdocs\project\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\project\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\functions.php on line 3
+
+2022-12-19T13:52:37+00:00 CRITICAL Uncaught Error: Call to undefined function gte_template_directory() in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\functions.php:3
+Stack trace:
+#0 C:\xampp\htdocs\project\wp-settings.php(585): include()
+#1 C:\xampp\htdocs\project\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\project\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\functions.php on line 3
+
+2022-12-19T13:54:38+00:00 CRITICAL Uncaught Error: Call to undefined function gte_template_directory() in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\functions.php:3
+Stack trace:
+#0 C:\xampp\htdocs\project\wp-settings.php(585): include()
+#1 C:\xampp\htdocs\project\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\project\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\functions.php on line 3
+
+2022-12-19T13:56:02+00:00 CRITICAL Uncaught Error: Call to undefined function gte_template_directory() in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\functions.php:3
+Stack trace:
+#0 C:\xampp\htdocs\project\wp-settings.php(585): include()
+#1 C:\xampp\htdocs\project\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\project\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\functions.php on line 3
+
+2022-12-19T13:56:10+00:00 CRITICAL Uncaught Error: Call to undefined function gte_template_directory() in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\functions.php:3
+Stack trace:
+#0 C:\xampp\htdocs\project\wp-settings.php(585): include()
+#1 C:\xampp\htdocs\project\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\project\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\project\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\functions.php on line 3
+
