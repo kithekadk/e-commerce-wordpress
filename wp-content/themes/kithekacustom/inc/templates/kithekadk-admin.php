@@ -1,3 +1,5 @@
 <h1>Kitheka Theme Options</h1>
-<h3 class="title">Manage Options</h3>
-<p>Customize the default Wordpress Appearance Options</p>
+<form method="post" action="">
+    <?php settings_fields('kitheka-setting-group');?>
+    <?php do_settings_sections('kithekadk_theme');?>
+</form>
