@@ -1,0 +1,21 @@
+2022-12-22T11:14:00+00:00 CRITICAL Uncaught Error: Call to undefined function add_setting_field() in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\inc\function-admin.php:36
+Stack trace:
+#0 C:\xampp\htdocs\project\wp-includes\class-wp-hook.php(308): kitheka_custom_settings('')
+#1 C:\xampp\htdocs\project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\project\wp-admin\admin.php(175): do_action('admin_init')
+#4 {main}
+  thrown in C:\xampp\htdocs\project\wp-content\themes\kithekacustom\inc\function-admin.php on line 36
+
+2022-12-22T11:47:27+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "kitheka_sidebar_facebook" not found or invalid function name in C:\xampp\htdocs\project\wp-admin\includes\template.php:1785
+Stack trace:
+#0 C:\xampp\htdocs\project\wp-admin\includes\template.php(1739): do_settings_fields('kithekadk_theme', 'kitheka-sidebar...')
+#1 C:\xampp\htdocs\project\wp-content\themes\kithekacustom\inc\templates\kithekadk-admin.php(5): do_settings_sections('kithekadk_theme')
+#2 C:\xampp\htdocs\project\wp-content\themes\kithekacustom\inc\function-admin.php(69): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\project\wp-includes\class-wp-hook.php(308): kithekadk_theme_create_page('')
+#4 C:\xampp\htdocs\project\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#5 C:\xampp\htdocs\project\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\project\wp-admin\admin.php(259): do_action('kithekatheme_pa...')
+#7 {main}
+  thrown in C:\xampp\htdocs\project\wp-admin\includes\template.php on line 1785
+
