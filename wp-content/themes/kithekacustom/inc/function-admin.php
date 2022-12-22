@@ -68,6 +68,7 @@ function kitheka_sidebar_instagram(){
 function kitheka_sanitize_twitter_handle($input){
     //checking for invalid utf and symbols
     $output = sanitize_text_field($input);
+    $output = str_replace('@', '', $output);
     return $output;
 }
 function kithekadk_theme_create_page(){
