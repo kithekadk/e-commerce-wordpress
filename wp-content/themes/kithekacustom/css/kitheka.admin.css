@@ -1,0 +1,28 @@
+/*
+@package kithekatheme
+*/
+
+
+.kitheka-general{
+    display:flex;
+    flex-direction: row;
+    border:black solid 1px;
+}
+
+.kitheka-sidebar-preview{
+    /* width:280px; */
+    background-color: #1f1f1f;
+    padding:20px;
+    text-align:center;
+    margin-right:20px;
+    color:white;
+    border:red solid 1px;
+}
+.kitheka-general-form,.kitheka-sidebar-preview{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+.kitheka-general-form{
+    border: green solid 1px;
+}
